@@ -18,6 +18,10 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 * TTEncrypt
 * Xlog
 
+### contact me
+## Contact Telegram @Neo_Galaxy
+https://t.me/Neo_Galaxy
+
 ## tiktok API
 
 1. login to the user by email and username
@@ -43,6 +47,3 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 21. resolve captcha
 22. create accounts
 
-### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
